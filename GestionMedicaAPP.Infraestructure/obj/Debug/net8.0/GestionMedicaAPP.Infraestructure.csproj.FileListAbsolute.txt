@@ -1,0 +1,11 @@
+C:\Users\brian\source\repos\GestionMedicaAPP\GestionMedicaAPP.Infraestructure\bin\Debug\net8.0\GestionMedicaAPP.Infraestructure.deps.json
+C:\Users\brian\source\repos\GestionMedicaAPP\GestionMedicaAPP.Infraestructure\bin\Debug\net8.0\GestionMedicaAPP.Infraestructure.dll
+C:\Users\brian\source\repos\GestionMedicaAPP\GestionMedicaAPP.Infraestructure\bin\Debug\net8.0\GestionMedicaAPP.Infraestructure.pdb
+C:\Users\brian\source\repos\GestionMedicaAPP\GestionMedicaAPP.Infraestructure\obj\Debug\net8.0\GestionMedicaAPP.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brian\source\repos\GestionMedicaAPP\GestionMedicaAPP.Infraestructure\obj\Debug\net8.0\GestionMedicaAPP.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\brian\source\repos\GestionMedicaAPP\GestionMedicaAPP.Infraestructure\obj\Debug\net8.0\GestionMedicaAPP.Infraestructure.AssemblyInfo.cs
+C:\Users\brian\source\repos\GestionMedicaAPP\GestionMedicaAPP.Infraestructure\obj\Debug\net8.0\GestionMedicaAPP.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\brian\source\repos\GestionMedicaAPP\GestionMedicaAPP.Infraestructure\obj\Debug\net8.0\GestionMedicaAPP.Infraestructure.dll
+C:\Users\brian\source\repos\GestionMedicaAPP\GestionMedicaAPP.Infraestructure\obj\Debug\net8.0\refint\GestionMedicaAPP.Infraestructure.dll
+C:\Users\brian\source\repos\GestionMedicaAPP\GestionMedicaAPP.Infraestructure\obj\Debug\net8.0\GestionMedicaAPP.Infraestructure.pdb
+C:\Users\brian\source\repos\GestionMedicaAPP\GestionMedicaAPP.Infraestructure\obj\Debug\net8.0\ref\GestionMedicaAPP.Infraestructure.dll
