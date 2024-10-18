@@ -1,0 +1,11 @@
+C:\Users\brian\source\repos\GestionMedicaAPP\GestionMedicaAPP.Domain\obj\Debug\net8.0\GestionMedicaAPP.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brian\source\repos\GestionMedicaAPP\GestionMedicaAPP.Domain\obj\Debug\net8.0\GestionMedicaAPP.Domain.AssemblyInfoInputs.cache
+C:\Users\brian\source\repos\GestionMedicaAPP\GestionMedicaAPP.Domain\obj\Debug\net8.0\GestionMedicaAPP.Domain.AssemblyInfo.cs
+C:\Users\brian\source\repos\GestionMedicaAPP\GestionMedicaAPP.Domain\obj\Debug\net8.0\GestionMedicaAPP.Domain.csproj.CoreCompileInputs.cache
+C:\Users\brian\source\repos\GestionMedicaAPP\GestionMedicaAPP.Domain\bin\Debug\net8.0\GestionMedicaAPP.Domain.deps.json
+C:\Users\brian\source\repos\GestionMedicaAPP\GestionMedicaAPP.Domain\bin\Debug\net8.0\GestionMedicaAPP.Domain.dll
+C:\Users\brian\source\repos\GestionMedicaAPP\GestionMedicaAPP.Domain\bin\Debug\net8.0\GestionMedicaAPP.Domain.pdb
+C:\Users\brian\source\repos\GestionMedicaAPP\GestionMedicaAPP.Domain\obj\Debug\net8.0\GestionMedicaAPP.Domain.dll
+C:\Users\brian\source\repos\GestionMedicaAPP\GestionMedicaAPP.Domain\obj\Debug\net8.0\refint\GestionMedicaAPP.Domain.dll
+C:\Users\brian\source\repos\GestionMedicaAPP\GestionMedicaAPP.Domain\obj\Debug\net8.0\GestionMedicaAPP.Domain.pdb
+C:\Users\brian\source\repos\GestionMedicaAPP\GestionMedicaAPP.Domain\obj\Debug\net8.0\ref\GestionMedicaAPP.Domain.dll
