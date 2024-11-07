@@ -1,0 +1,16 @@
+C:\Users\brian\source\repos\GestionMedicaAPP\GestionMedicaAPP.Persistance\bin\Debug\net8.0\GestionMedicaAPP.Persistance.deps.json
+C:\Users\brian\source\repos\GestionMedicaAPP\GestionMedicaAPP.Persistance\bin\Debug\net8.0\GestionMedicaAPP.Persistance.dll
+C:\Users\brian\source\repos\GestionMedicaAPP\GestionMedicaAPP.Persistance\bin\Debug\net8.0\GestionMedicaAPP.Persistance.pdb
+C:\Users\brian\source\repos\GestionMedicaAPP\GestionMedicaAPP.Persistance\obj\Debug\net8.0\GestionMedicaAPP.Persistance.csproj.AssemblyReference.cache
+C:\Users\brian\source\repos\GestionMedicaAPP\GestionMedicaAPP.Persistance\obj\Debug\net8.0\GestionMedicaAPP.Persistance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brian\source\repos\GestionMedicaAPP\GestionMedicaAPP.Persistance\obj\Debug\net8.0\GestionMedicaAPP.Persistance.AssemblyInfoInputs.cache
+C:\Users\brian\source\repos\GestionMedicaAPP\GestionMedicaAPP.Persistance\obj\Debug\net8.0\GestionMedicaAPP.Persistance.AssemblyInfo.cs
+C:\Users\brian\source\repos\GestionMedicaAPP\GestionMedicaAPP.Persistance\obj\Debug\net8.0\GestionMedicaAPP.Persistance.csproj.CoreCompileInputs.cache
+C:\Users\brian\source\repos\GestionMedicaAPP\GestionMedicaAPP.Persistance\obj\Debug\net8.0\GestionMedicaAPP.Persistance.dll
+C:\Users\brian\source\repos\GestionMedicaAPP\GestionMedicaAPP.Persistance\obj\Debug\net8.0\refint\GestionMedicaAPP.Persistance.dll
+C:\Users\brian\source\repos\GestionMedicaAPP\GestionMedicaAPP.Persistance\obj\Debug\net8.0\GestionMedicaAPP.Persistance.pdb
+C:\Users\brian\source\repos\GestionMedicaAPP\GestionMedicaAPP.Persistance\obj\Debug\net8.0\ref\GestionMedicaAPP.Persistance.dll
+C:\Users\brian\source\repos\GestionMedicaAPP\GestionMedicaAPP.Persistance\bin\Debug\net8.0\GestionMedicaAPP.Domain.dll
+C:\Users\brian\source\repos\GestionMedicaAPP\GestionMedicaAPP.Persistance\bin\Debug\net8.0\GestionMedicaAPP.Domain.pdb
+C:\Users\brian\source\repos\GestionMedicaAPP\GestionMedicaAPP.Persistance\obj\Debug\net8.0\GestionM.3376D686.Up2Date
+C:\Users\brian\source\repos\GestionMedicaAPP\GestionMedicaAPP.Persistance\obj\Debug\net8.0\GestionMedicaAPP.Persistance.sourcelink.json
